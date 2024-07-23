@@ -1,6 +1,4 @@
-# Project Name
-
-## WATCHERS
+# Project Name : WATCHERS
 
 ## Description
 
